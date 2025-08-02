@@ -57,7 +57,7 @@ def recommend_books(book_name, n_recommendations=20):
     return filtered_books, filtered_posters
 
 # UI enhancements
-st.set_page_config(page_title="Book Recommendation System", page_icon=":books:", layout="wide")
+st.set_page_config(page_title="Nitin Book Recommendation System", page_icon=":books:", layout="wide")
 
 # Custom CSS
 st.markdown(
