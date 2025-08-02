@@ -80,7 +80,7 @@ load_css('styles.css')
 
 
 # Main Layout
-st.markdown('<h1 class="title-style">Book Recommendation System<span class="material-symbols-rounded">book_5</span></h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="title-style">Nitin Book Recommendation System<span class="material-symbols-rounded">book_5</span></h1>', unsafe_allow_html=True)
 st.markdown('<h3 class="subheader-style">Using Machine Learning to Suggest the Best Books for You</h3>', unsafe_allow_html=True)
 
 # Sidebar for book selection
